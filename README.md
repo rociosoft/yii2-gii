@@ -14,13 +14,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist rociosoft/yii2-gii "*"
+php composer.phar require rociosoft/yii2-gii "dev-master"
 ```
 
 or add
 
 ```
-"rociosoft/yii2-gii": "*"
+"rociosoft/yii2-gii": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
@@ -32,7 +32,7 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \rociosoft\gii\??; ?>
+<?= \rociosoft\gii\; ?>
 ```
 
 En Español
