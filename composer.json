@@ -1,6 +1,6 @@
 {
     "name": "rociosoft/yii2-gii",
-    "description": "Gii Generator base on most popular extension as kartik-v, wbraganca, miloschuman",
+    "description": "Yii2 CRUD Generator base on most popular extension as kartik-v, wbraganca, miloschuman",
     "type": "yii2-extension",
     "keywords": ["yii2","rociosoft"],
     "license": "GPL-3.0+",

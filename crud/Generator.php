@@ -43,7 +43,7 @@ class Generator extends \yii\gii\generators\crud\Generator
      */
     public function getName()
     {
-        return 'RocioSoft Yii2 Generator';
+        return 'RocioSoft Yii2 CRUD Generator';
     }
 
     /**
