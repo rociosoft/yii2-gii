@@ -6,7 +6,7 @@
  */
 
 
-namespace rociosoft\rsgii\crud;
+namespace rociosoft\gii\crud;
 
 use Yii;
 use yii\db\ActiveRecord;

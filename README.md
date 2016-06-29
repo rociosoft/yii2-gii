@@ -1,5 +1,5 @@
-# yii2-rs-gii
-==============
+# rociosoft\yii2-gii
+====================
 Gii Generator base on most popular extension as kartik-v, wbraganca, miloschuman
 
 The objective of this extension is create rapid applications by using a lot of the best and popular components available to all programmers.
@@ -14,13 +14,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist rociosoft/yii2-rs-gii "*"
+php composer.phar require --prefer-dist rociosoft/yii2-gii "*"
 ```
 
 or add
 
 ```
-"rociosoft/yii2-rs-gii": "*"
+"rociosoft/yii2-gii": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -32,4 +32,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \rociosoft\rsgii\??; ?>```
+<?= \rociosoft\gii\??; ?>```
